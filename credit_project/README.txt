@@ -14,3 +14,7 @@ Data:
 	- credit_data.csv: The original dataset.
 	- credit_data_preprocessed.csv: The cleaned dataset after it goes through the preprocessing script.
 	- model_inputs.csv: The refined dataset after it goes through the feature_engineering script.
+
+Model:
+	- the final model produced in the model_selection.pynb
+	- stored as a .pkl file
